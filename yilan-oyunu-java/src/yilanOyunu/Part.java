@@ -1,3 +1,5 @@
+package yilanOyunu;
+
 import javax.swing.JTextField;
 
 public class Part extends JTextField{
